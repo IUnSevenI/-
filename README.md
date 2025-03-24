@@ -1586,8 +1586,8 @@ get_random_cat()
 
 
     
-![png](output_45_0.png)
-    
+![png](./output_45_0.png)
+
 
 
 вот вам в завершение рандомный кот :)
